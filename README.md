@@ -1,5 +1,6 @@
 # Logicly-Electronic-circuits
-An Electronic circuits and libraries for Logicly
+An Electronic circuits and libraries for Logicly 
+For Educational Purposes
 
 This files contains libraries for the Logicly
 These libraries were made for the purpose of easy creation of a huge set of logic gates.
